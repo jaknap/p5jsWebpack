@@ -5,5 +5,5 @@ Steps:
 <li>Clone the repository</li>
 <li>Go to the root directory from terminal and run npm install</li>
 <li>Run npm start</li>
-
+<br>
 This should open a new browser window with hot re-loading.
