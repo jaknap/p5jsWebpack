@@ -1,0 +1,31 @@
+{
+  "name": "p5jsTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -d",
+    "start": "webpack-dev-server --mode development --open --hot"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "file-loader": "^2.0.0",
+    "image-webpack-loader": "^4.4.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.9"
+  },
+  "keywords": [],
+  "author": "Pankaj Uchil",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^0.7.2"
+  }
+}
