@@ -6,4 +6,4 @@ Steps:
 <li>Go to the root directory from terminal and run npm install</li>
 <li>Run npm start</li>
 <br>
-This should open a new browser window with hot re-loading.
+This should open a new browser window with hot re-loading, running the template sketch.js file
